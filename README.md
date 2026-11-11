@@ -38,12 +38,12 @@ I enjoy approaching problems with curiosity, questioning assumptions, and lookin
 
 A collection of analytical projects demonstrating my approach to data exploration, business problem-solving, statistical analysis, and data-driven decision-making.
 
-### 📦 Supply Chain Performance & Supplier Analytics
-An investigation into supplier reliability, delivery delays, procurement cost variances, and operational bottlenecks within a manufacturing and distribution environment.
+### 📦 Inventory Performance & Stock Management Analysis
+An investigation into inventory performance across 350 products spanning five product categories. The project explores stock health, inventory efficiency, supplier reliability, and capital utilization using Excel-based analytical techniques.
 
-**Tools:** SQL, Excel, Tableau
+**Tools:** Microsoft Excel, Descriptive Statistics, Data Analysis
 
-[View Project →](PASTE-YOUR-GITHUB-REPOSITORY-LINK-HERE)
+[View Project →](https://github.com/EmmanuelUdonsi/Inventory-Performance-Analysis-Report.git)
 
 ### 🛒 E-commerce Sales Performance & Revenue Intelligence
 An analysis of e-commerce transactions to investigate revenue trends, product performance, geographical sales distribution, and order cancellations.
